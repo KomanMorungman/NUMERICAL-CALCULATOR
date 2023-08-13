@@ -23,7 +23,7 @@ char arr1[s],arr2[s];/*arr1 stores operators and '('
                                 arr2 stores the postfix expression with numbers substituted by q
                                 and arr3 holds numbers in the expression*/
 
-                       /*Priority Assignment and Conversion*/
+                       /*Conversion of infix to postfix*/
 for(i=0;i<s;i++){
 p1=prior(expn[i]);
 switch(p1){
@@ -176,9 +176,7 @@ default:top3++;
 return 0;
 }
 
-             /*START-Functions used in postfix calculation*/
-
-              /*END-Functions used in postfix calculation*/
+             
 
 
 
