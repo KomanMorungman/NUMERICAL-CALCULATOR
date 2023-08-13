@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1691952672 source:d:\finalprojects\numerical calculator\numerical calculator.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<cmath>
+	"char_to_int.h"
+	"pop.h"
+
+1691952000 d:\finalprojects\numerical calculator\char_to_int.h
+
+1691952575 d:\finalprojects\numerical calculator\pop.h
+
